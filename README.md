@@ -24,7 +24,16 @@ Languages : JavaScript | TypeScript | Python | C++
 Frontend  : React | Next.js | Tailwind CSS | HTML | CSS
 Backend   : Node.js | Express | Firebase | MongoDB
 Tools     : Git | GitHub | Figma | Postman | VS Code
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meraraalvi&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
+🔥 Streak Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=meraraalvi&theme=radical" alt="GitHub Streak" /> </p>
+📈 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraraalvi&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🔗 Let's Connect
-<p align="center"> <a href="https://github.com/meraraalvi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:meraraalvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/meraraalvi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://github.com/meraraalvi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:meraraalvi@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/meraraalvi"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+🧠 Quote to Remember
 "Hack the rules. Code the game. Own the keyboard."
 — Merara Alvi 🕶️💻
+
+
