@@ -35,5 +35,3 @@ Tools     : Git | GitHub | Figma | Postman | VS Code
 🧠 Quote to Remember
 "Hack the rules. Code the game. Own the keyboard."
 — Merara Alvi 🕶️💻
-
-
