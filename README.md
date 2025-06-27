@@ -24,7 +24,18 @@ Languages : JavaScript | TypeScript | Python | C++
 Frontend  : React | Next.js | Tailwind CSS | HTML | CSS
 Backend   : Node.js | Express | Firebase | MongoDB
 Tools     : Git | GitHub | Figma | Postman | VS Code
-🔗 Let's Connect
-<p align="center"> <a href="https://github.com/meraraalvi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:meraraalvi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/meraraalvi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/meraraalvi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:meraraalvi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/meraraalvi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 "Hack the rules. Code the game. Own the keyboard."
 — Merara Alvi 🕶️💻
