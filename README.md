@@ -41,6 +41,6 @@ Tools     : Git | GitHub | Figma | Postman | VS Code
 - 🔥 Setting Firebase on fire (in a good way)  
 - 👑 Owning every line of code like royalty  
 
-🧠 Quote to Remember
-"Hack the rules. Code the game. Own the keyboard."
-— Merara Alvi 🕶️💻
+
+                                                 "Hack the rules. Code the game. Own the keyboard."
+                                                                — Merara Alvi 🕶️💻
