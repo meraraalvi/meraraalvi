@@ -32,6 +32,15 @@ Tools     : Git | GitHub | Figma | Postman | VS Code
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meraraalvi&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🔗 Let's Connect
 <p align="center"> <a href="https://github.com/meraraalvi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:meraraalvi@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/meraraalvi"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
+### 💪 Code & Glow Goals
+
+- 🔧 Sharpening my React claws with custom components  
+- 🎨 Styling with Tailwind like a pixel queen  
+- 🚀 Learning how to deploy like a boss  
+- 🔥 Setting Firebase on fire (in a good way)  
+- 👑 Owning every line of code like royalty  
+
 🧠 Quote to Remember
 "Hack the rules. Code the game. Own the keyboard."
 — Merara Alvi 🕶️💻
