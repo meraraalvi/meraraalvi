@@ -42,5 +42,5 @@ Tools     : Git | GitHub | Figma | Postman | VS Code
 - 👑 Owning every line of code like royalty  
 
 
-                                                 "Hack the rules. Code the game. Own the keyboard."
+                                        "Hack the rules. Code the game. Own the keyboard."
                                                                 — Merara Alvi 🕶️💻
